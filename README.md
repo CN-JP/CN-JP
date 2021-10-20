@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CN-JP
+- 👋 Hi, I’m Nonso Akamnonu
 - 👀 I’m interested in programming/coding. 
 - 🌱 I’m currently learning full stack dev
 - 💞️ I’m looking to collaborate on coding
